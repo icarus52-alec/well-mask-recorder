@@ -1,0 +1,15 @@
+{
+  "name": "96-Well Infection Mask Recorder",
+  "short_name": "Well Mask",
+  "description": "Record infection observations and mask dates for 96-well plates.",
+  "start_url": "./",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#0d85e0",
+  "icons": [
+    {
+      "src": "app-icon.png",
+      "type": "image/png"
+    }
+  ]
+}
